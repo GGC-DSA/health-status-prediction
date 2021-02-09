@@ -8,6 +8,7 @@ Health Status Prediction is an application designed to show a user's health stat
 Data modeler: Ruth\
 Data Analyzer: Sarah\
 Visualization: Lily and May\
+
 *Set 2, management roles:*\
 Team manager: Sarah\
 Client liaison: Ruth\
