@@ -1,4 +1,4 @@
-# health-status-prediction
+# Health Status Prediction
 
 **Project Description:**<br/>
 
@@ -20,9 +20,6 @@ Sarah Price: Data analyzer, Project manager<br/>
 | Plotly         |  Visualization                           |
 | Vue            |  Web Framework                           |
 
-**Deliverables:**<br/>
-
-An analytical platform that uses clinical datasets to provide 1) an accurate diagnosis based on the patient's symptoms and 2) a visualization that depicts how and why the patient's symptoms influence their ailment.
 
 **Business Case:**<br/>
 
