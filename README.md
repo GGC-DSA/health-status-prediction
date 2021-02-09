@@ -13,3 +13,11 @@ Team manager: Sarah
 Client liaison: Ruth
 Project Scribe: Lily 
 Scrum Master: May
+
+
+| Name      | Role                                          |
+| -----------    | ------------------------------           |
+| Python         | Primary Programming Language             |
+| SAP Analysis   | Data Analysis and Visualization          |
+| Plotly         |  Visualization                           |
+| Vue            |  Web Framework                           |
