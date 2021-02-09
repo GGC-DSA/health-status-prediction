@@ -12,7 +12,7 @@ Visualization: Lily and May\
 *Set 2, management roles:*\
 Team manager: Sarah\
 Client liaison: Ruth\
-Project Scribe: Lily\ 
+Project Scribe: Lily\
 Scrum Master: May\
 
 **Technologies:**\
