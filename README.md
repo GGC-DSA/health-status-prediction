@@ -4,7 +4,6 @@
 Health Status Prediction is an application designed to show a user's health status based on the collection of massive datasets. It involves the creation of dynamic visualizations that accurately show the attributes that influene a specfic diease, cancer, virus, etc. This analytical platform also includes decision trees and features selection algorithms for proper classification of attributes and data.
   
 **Team Roles:**<br/>
-
 Ruth Whitehouse: Data modeler, Client liaison<br/>
 May Kamreen: Data visualization, Scrum master<br/>
 Lily Sheppard: Data visualization, Project scribe<br/>
