@@ -24,6 +24,5 @@ Sarah Price: Data analyzer, Project manager<br/>
 | SAP Analysis   | Data Analysis and Visualization          |
 | Plotly         | Visualization                            |
 | Vue            | Web Framework                            |
-| Tableau        | Data Analysis and Visualization          |
 | D3.jS          | Dynamic Visualization                    |
 | JSON           | Storage Location for Data                |
