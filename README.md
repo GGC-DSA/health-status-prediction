@@ -2,7 +2,12 @@
 
 **Project Description:**<br/>
 
-Health Status Prediction is an application designed to show a user's health status based on the collection of massive datasets. It involves the creation of dynamic visualizations that accurately show the attributes that influene a specfic diease, cancer, virus, etc. This analytical platform also includes decision trees and features selection algorithms for proper classification of attributes and data.
+Create an EXPLORATORY visual that is both engagin and informative to a user about Heart Diease based on selected symptoms!
+
+**Project Goal:**<br/>
+
+1. Create an INTERACTIVE visual! 
+2. Show the correlation between the most common Heart Disease symptoms and their Heart Health Status. 
   
 **Team Roles:**<br/>
 
@@ -13,14 +18,12 @@ Sarah Price: Data analyzer, Project manager<br/>
 
 **Technologies:**<br/>
 
-| Name      | Role                                          |
+| Name           | Role                                     |
 | -----------    | ------------------------------           |
 | Python         | Primary Programming Language             |
 | SAP Analysis   | Data Analysis and Visualization          |
-| Plotly         |  Visualization                           |
-| Vue            |  Web Framework                           |
-
-
-**Business Case:**<br/>
-
-Successful and accurate models benefit general healthcare professionals, as well as potential patients. While the platform should not be used as a substitute for proper care, it can help disgruntled users discern the cause of their symptoms, or aid in making sensible decisions about thier health.
+| Plotly         | Visualization                            |
+| Vue            | Web Framework                            |
+| Tableau        | Data Analysis and Visualization          |
+| D3.jS          | Dynamic Visualization                    |
+| JSON           | Storage Location for Data                |
