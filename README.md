@@ -23,6 +23,7 @@ Sarah Price: Data analyzer, Project manager<br/>
 | Python         | Primary Programming Language             |
 | SAP Analysis   | Data Analysis and Visualization          |
 | Plotly         | Visualization                            |
+| Tableau        | Visualization                            |
 | Vue            | Web Framework                            |
 | D3.jS          | Dynamic Visualization                    |
 | JSON           | Storage Location for Data                |
