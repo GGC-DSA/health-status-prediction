@@ -1,5 +1,12 @@
 # Health Status Prediction
 
+## Quick Links
+
+Website
+Final Notebook
+Final Poster
+Final Report 
+
 ## Table of Contents
 
 Below is a table that will navigate you through the folders we have provided and what files they contain. 
@@ -21,7 +28,7 @@ DESCLAIMER: There is only **one miscellaneous file** that does not belong in a d
 Create an EXPLORATORY visual that is both engaging and informative to a user about Heart Diease based on selected symptoms!
 
 **Project Goal:**<br/>
-1. Create an INTERACTIVE visual.
+1. Create an ~~interactive~~ visual.
 2. Show the correlation between the most common Heart Disease symptoms and their Heart Health Status.
 
 **Implemented Features:**<br/>
