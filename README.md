@@ -6,9 +6,9 @@ Below is a table that will navigate you through the folders we have provided and
 
 | Folder Name              | Files                                    |
 | -----------              | ------------------------------           |
-| CLEANED Datasets         | All 4 cleaned datasets                   |
-| Meeting Minutes          | Documents that detail each of our meetings with important decisions made throughout the semester                              |
-| SAP Analysis             | Data Analysis and Visualization          |
+| CLEANED Datasets         | All 4 pre-processed dataset              |
+| Meeting Minutes          | Documents that detail each of our meetings with important decisions made throughout the semester                                               |
+| Notebooks                | All 4 individual notesbooks with statistical analysis based on each dataset        |
 | Plotly                   | Visualization                            |
 | Tableau                  | Visualization                            |
 | Vue                      | Web Framework                            |
