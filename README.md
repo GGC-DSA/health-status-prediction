@@ -33,12 +33,13 @@ Create an EXPLORATORY visual that is both engaging and informative to a user abo
 |                          | Thorough Statistical Analysis and K-Means Clustering for a more in-depth analysis.                                                             |
 | Visual                   | Create accurate and engaging visuals for all statistical tests performed on the data.                                                                 |
 
-**Team Roles:**<br/>
-
-Ruth Whitehouse: Data modeler, Client liaison<br/>
-May Kamreen: Data visualization, Scrum master<br/>
-Lily Sheppard: Data visualization, Project scribe<br/>
-Sarah Price: Data analyzer, Project manager<br/>
+**Team Members:**<br/>
+| Name                     | Role                                     |
+| -----------              | ------------------------------           |
+| Sarah Price              | Data Analyser, Project Manager           |
+| Ruth Whitehouse          | Data Modeler, Client Liaison             |
+| Shababa "May" Kamreen    | Data Visualizer, Scrum Master            |
+| Haley "Lily" Sheppard    | Data Visualizer, Project Scribe          |
 
 **Technologies:**<br/>
 
