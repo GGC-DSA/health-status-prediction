@@ -10,11 +10,11 @@ Below is a table that will navigate you through the folders we have provided and
 | Meeting Minutes          | Document that details each significant team meeting and the decisions made throughout the semester.                                              |
 | Notebooks                | All 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                                  |
 | Project Deliverables     | Final products for the project (Poster, Presentation, Report)                                                                                           |
-| Tableau                  | Visualization                            |
-| Vue                      | Web Framework                            |
-| D3.jS                    | Dynamic Visualization                    |
-| JSON                     | Storage Location for Data                |
+| Project Preparation      | Project Charter, Project Timeline        |
+| Raw Datasets             | All 4 datasets taken directly from Kaggle|
+| MISC                     | Combined.csv                             | 
 
+## Project Overview
 **Project Description:**<br/>
 
 Create an EXPLORATORY visual that is both engaging and informative to a user about Heart Diease based on selected symptoms!
