@@ -14,7 +14,6 @@ Below is a table that will navigate you through the folders we have provided and
 | Folder Name              | Files                                    |
 | -----------              | ------------------------------           |
 | CLEANED Datasets         | All 4 pre-processed datasets.            |
-| Meeting Minutes          | Document that details each significant team meeting and the decisions made throughout the semester.                                              |
 | Notebooks                | All 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                                  |
 | Project Deliverables     | Final products for the project (Poster, Notebook, Presentation, Report)                                                                                 |
 | Project Preparation      | Project Charter, Project Timeline        |
