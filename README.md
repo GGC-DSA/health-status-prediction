@@ -12,7 +12,6 @@ Below is a table that will navigate you through the folders we have provided and
 | Project Deliverables     | Final products for the project (Poster, Notebook, Presentation, Report)                                                                                 |
 | Project Preparation      | Project Charter, Project Timeline        |
 | Raw Datasets             | All 4 datasets taken directly from Kaggle|
-| MISC                     | Combined.csv                             | 
 
 DESCLAIMER: There is only **one miscellaneous file** that does not belong in a designated folder: **Combined.csv.**
 
