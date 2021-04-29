@@ -2,10 +2,10 @@
 
 ## Quick Links
 
-Website
-Final Notebook
-Final Poster
-Final Report 
+Website<br/>
+Final Notebook<br/>
+Final Poster<br/>
+Final Report<br/>
 
 ## Table of Contents
 
