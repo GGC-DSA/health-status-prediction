@@ -47,9 +47,5 @@ Create an EXPLORATORY visual that is both engaging and informative to a user abo
 | -----------              | ------------------------------           |
 | Python                   | Primary Programming Language             |
 | Jupyter Notebook         | Statistics                               |
-| SAP Analysis             | Data Analysis and Visualization          |
-| Plotly                   | Visualization                            |
 | Tableau                  | Visualization                            |
-| Vue                      | Web Framework                            |
 | D3.jS                    | Dynamic Visualization                    |
-| JSON                     | Storage Location for Data                |
