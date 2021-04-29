@@ -26,10 +26,13 @@ Create an EXPLORATORY visual that is both engaging and informative to a user abo
 2. Show the correlation between the most common Heart Disease symptoms and their Heart Health Status.
 
 **Implemented Features:**<br/>
-| Statistical    | Complete Regressional Analysis for each of our top contributing risk factors (Age, Cholesterol, Diabetes, Hypertension, Physical Inactivity, and Smoking)        |
-|                | Successful application of PCA to all datasets to narrow down which of the factors have the most impact on heart diease.                                                  |
-|                | Thorough Statistical Analysis and K-Means Clustering for a more in-depth analysis.         |                                                                             | 
-| Visual         | Create accurate and engaging visuals for all statistical tests performed on the data!                                                                                     | 
+| Category                 | Feature                                  |
+| -----------              | ------------------------------           |
+| Statistical              | Complete Regressional Analysis for each of our top contributing risk factors (Age, Cholesterol, Diabetes, Hypertension, Physical Inactivity, and Smoking)|
+|                          | Successful application of PCA to all datasets to narrow down which of the factors have the most impact on heart diease.                                 |
+|                          | Thorough Statistical Analysis and K-Means Clustering for a more in-depth analysis.                                                             |
+| Visual                   | Create accurate and engaging visuals for all statistical tests performed on the data.                                                                 |
+
 **Team Roles:**<br/>
 
 Ruth Whitehouse: Data modeler, Client liaison<br/>
