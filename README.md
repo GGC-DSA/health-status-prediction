@@ -1,6 +1,6 @@
 # Health Status Prediction
 
-**Table of Contents:**
+## Table of Contents
 
 Below is a table that will navigate you through the folders we have provided and what files they contain. 
 
