@@ -6,8 +6,8 @@ Below is a table that will navigate you through the folders we have provided and
 
 | Folder Name              | Files                                    |
 | -----------              | ------------------------------           |
-| Python                   | Primary Programming Language             |
-| Jupyter Notebook         | Statistics                               |
+| CLEANED Datasets         | All 4 cleaned datasets                   |
+| Meeting Minutes          | Documents that detail each of our meetings with important decisions made throughout the semester                              |
 | SAP Analysis             | Data Analysis and Visualization          |
 | Plotly                   | Visualization                            |
 | Tableau                  | Visualization                            |
