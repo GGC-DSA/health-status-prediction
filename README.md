@@ -9,7 +9,7 @@ Below is a table that will navigate you through the folders we have provided and
 | CLEANED Datasets         | All 4 pre-processed datasets.            |
 | Meeting Minutes          | Document that details each significant team meeting and the decisions made throughout the semester.                                              |
 | Notebooks                | All 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                                  |
-| Plotly                   | Visualization                            |
+| Project Deliverables     | Final products for the project (Poster, Presentation, Report)                                                                                           |
 | Tableau                  | Visualization                            |
 | Vue                      | Web Framework                            |
 | D3.jS                    | Dynamic Visualization                    |
