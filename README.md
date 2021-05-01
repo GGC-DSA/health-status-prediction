@@ -58,4 +58,4 @@ Create an EXPLORATORY visual that is both engaging and informative to a user abo
 | D3.jS                    | Dynamic Visualization                    |
 
 ## Instructions for Editing the Website
-The code for the website is located under a branced called **newbranch**. In order to edit or add any information, you will have to switch to that branch and either edit the code directly in GitHub, or open the code in a text editor on your local machine.
+The code for the website is located under a brance called **newbranch**. In order to edit or add any information, you will have to switch to that branch and either edit the code directly in GitHub, or open the code in a text editor on your local machine.
