@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-Website<br/>
+[Website](https://health-status-prediction.netlify.app/)<br/>
 Final Notebook<br/>
 Final Poster<br/>
 Final Report<br/>
