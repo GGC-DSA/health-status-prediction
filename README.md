@@ -1,6 +1,6 @@
 # Health Status Prediction
 
-## Quick Links
+## Quick Links | Project Deliverables!
 
 [Website](https://health-status-prediction.netlify.app/)<br/>
 [Final Notebook](https://colab.research.google.com/drive/1lKfwkLaYZRL_1_egt3l4mW35W79Hf4g-#scrollTo=UmgFkRxLcj5s)<br/>
