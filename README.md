@@ -12,14 +12,15 @@ Screencast Demo<br/>
 
 Below is a table that will navigate you through the folders we have provided and what files they contain. 
 
-| **Folder Name**          | **Files**                                |
-| -----------              | ------------------------------           |
-| CLEANED Datasets         | All 4 pre-processed datasets.            |
+| **Folder Name**          | **Files**                                                    |
+| -----------              | ------------------------------                               |
+| CLEANED Datasets         | All 4 pre-processed datasets.                                |
 | Iteration Presentations  | 3 iteration presentations that detail the important decisions made throughout the semester, project progress, and overall creative process.             |
 | Notebooks                | All 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                                   |
-| Project Deliverables     | Final products for the project (Poster, Notebook, Presentation, Report, Website Code)                                                                                                                                     |
-| Project Preparation      | Project Charter, Project Timeline        |
-| Raw Datasets             | All 4 datasets taken directly from Kaggle|
+| Project Deliverables     | Final products for the project (Poster, Notebook, Presentation, Report, Website Code)                                                                                                                                                         |
+| Project Preparation      | Project Charter, Project Timeline                            |
+| Raw Datasets             | All 4 datasets taken directly from Kaggle                    |
+| Visual Code              | Files containing the code for our D3.js and Tableau visuals. |
 
 | **Miscellaneous Files**  |**Description**                                                                     |
 | -----------              | ------------------------------                                                     |
