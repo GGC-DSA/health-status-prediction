@@ -29,14 +29,14 @@ Below is a table that will navigate you through the folders we have provided and
 
 ## Project Overview
 
-**PROJECT DESCRIPTION**<br/>
+**Project Description:**<br/>
 Create an exploratory visual that is both engaging and informative to a user about Heart Diease based on selected symptoms!
 
-**PROJECT GOAL**<br/>
+**Project Goal:**<br/>
 1. Create an ~~interactive~~ visual.
 2. Show the correlation between the most common Heart Disease symptoms and their Heart Health Status.
 
-**IMPLEMENTED FEATURES**<br/>
+**Implemented Features:**<br/>
 | **Category**             | **Feature**                              |
 | -----------              | ------------------------------           |
 | Statistical              | Complete Regressional Analysis for each of our top contributing risk factors (Age, Cholesterol, Diabetes, Hypertension, Physical Inactivity, and Smoking)                   |
@@ -44,7 +44,7 @@ Create an exploratory visual that is both engaging and informative to a user abo
 |                          | Thorough Statistical Analysis and K-Means Clustering for a more in-depth analysis.                                                             |
 | Visual                   | Create accurate and engaging visuals for all statistical tests performed on the data.                                                                |
 
-**THE TEAM**<br/>
+**The Team:**<br/>
 | **Member**                 | **Role**                               |
 | -----------              | ------------------------------           |
 | Sarah Price              | Data Analyser, Project Manager           |
@@ -52,7 +52,7 @@ Create an exploratory visual that is both engaging and informative to a user abo
 | Shababa "May" Kamreen    | Data Visualizer, Scrum Master            |
 | Haley "Lily" Sheppard    | Data Visualizer, Project Scribe          |
 
-**TECHNOLOGIES**<br/>
+**Technologies:**<br/>
 | **Name**                 | **Role**                                 |
 | -----------              | ------------------------------           |
 | Python                   | Primary Programming Language             |
@@ -61,4 +61,4 @@ Create an exploratory visual that is both engaging and informative to a user abo
 | D3.jS                    | Dynamic Visualization                    |
 
 ## Instructions for Editing the Website
-Our website is hosted/deployed by **Netify**. The code for the website is located under a brance called **newbranch**. In order to edit or add any information, you will have to switch to that branch and either edit the code directly in GitHub, or open the code in a text editor on your local machine.
+Our website is hosted/deployed by **Netify**. The code for the website is located under a branch called **newbranch**. In order to edit or add any information, you will have to switch to that branch and either edit the code directly in GitHub, or open the code in a text editor on your local machine.
