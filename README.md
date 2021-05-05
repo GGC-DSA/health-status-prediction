@@ -14,13 +14,13 @@ Below is a table that will navigate you through the folders we have provided and
 
 | **Folder Name**          | **Files**                                                    |
 | -----------              | ------------------------------                               |
-| CLEANED Datasets         | All 4 pre-processed datasets.                                |
-| Iteration Presentations  | 3 iteration presentations that detail the important decisions made throughout the semester, project progress, and overall creative process.             |
-| Notebooks                | All 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                                   |
-| Project Deliverables     | Final products for the project (Poster, Notebook, Presentation, Report, Website Code)                                                                                                                                                         |
-| Project Preparation      | Project Charter, Project Timeline                            |
-| Raw Datasets             | All 4 datasets taken directly from Kaggle                    |
-| Visual Code              | Files containing the code for our D3.js and Tableau visuals. |
+| CLEANED Datasets         | Contains all 4 pre-processed datasets.                       |
+| Iteration Presentations  | Contains 3 iteration presentations that detail the important decisions made throughout the semester, project progress, and overall creative process. |
+| Notebooks                | Contains all 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                        |
+| Project Deliverables     | Contains the final products of our project including the Poster, Notebook, Report, and Website Code.                                                  |
+| Project Preparation      | Contains our project Charter and Timeline.                   |
+| Raw Datasets             | Contains all 4 raw datasets taken directly from Kaggle.      |
+| Visual Code              | Contains the files of code for our D3.js and Tableau visuals.|
 
 | **Miscellaneous Files**  |**Description**                                                                     |
 | -----------              | ------------------------------                                                     |
@@ -39,10 +39,10 @@ Create an exploratory visual that is both engaging and informative to a user abo
 **IMPLEMENTED FEATURES**<br/>
 | **Category**             | **Feature**                              |
 | -----------              | ------------------------------           |
-| Statistical              | Complete Regressional Analysis for each of our top contributing risk factors (Age, Cholesterol, Diabetes, Hypertension, Physical Inactivity, and Smoking)|
-|                          | Successful application of PCA to all datasets to narrow down which of the factors have the most impact on heart diease.                                 |
+| Statistical              | Complete Regressional Analysis for each of our top contributing risk factors (Age, Cholesterol, Diabetes, Hypertension, Physical Inactivity, and Smoking)                   |
+|                          | Successful application of PCA to all datasets to narrow down which of the factors have the most impact on heart diease.                             |
 |                          | Thorough Statistical Analysis and K-Means Clustering for a more in-depth analysis.                                                             |
-| Visual                   | Create accurate and engaging visuals for all statistical tests performed on the data.                                                                   |
+| Visual                   | Create accurate and engaging visuals for all statistical tests performed on the data.                                                                |
 
 **THE TEAM**<br/>
 | **Member**                 | **Role**                               |
