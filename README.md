@@ -5,7 +5,7 @@
 [Website](https://health-status-prediction.netlify.app/)<br/>
 [Final Notebook](https://colab.research.google.com/drive/1lKfwkLaYZRL_1_egt3l4mW35W79Hf4g-#scrollTo=UmgFkRxLcj5s)<br/>
 [Final Poster](https://cdn-uploads.piazza.com/paste/kk08x4wq9b3144/508d5fcfb73cc03fa125abf3ff2241ecdd3fda18036f786c4bc2b965a2430e88/Health_Status_Prediction_Flyer.pdf)<br/>
-[Final Report]()<br/>
+[Final Report](https://cdn-uploads.piazza.com/paste/kk08x4wq9b3144/e8a81273098ca0b6ce4174ae83512935ebfb5bc95d18f9087b1643ee8d2a1b1f/Final_Report.pdf)<br/>
 [Screencast Demo](https://youtu.be/21AqqWrB0Cw)<br/>
 
 ## Table of Contents
