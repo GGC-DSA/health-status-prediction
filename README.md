@@ -21,11 +21,10 @@ Below is a table that will navigate you through the folders we have provided and
 | Project Preparation      | Project Charter, Project Timeline        |
 | Raw Datasets             | All 4 datasets taken directly from Kaggle|
 
-|                           **Miscellaneous Files**                   |
-| -----------              | ------------------------------           |
-| Sarah Price              | Data Analyser, Project Manager           |
-
-DESCLAIMER: There is only **one miscellaneous file** that does not belong in a designated folder: **Combined.csv.**
+| **Miscellaneous Files**  |**Description**                                                                     |
+| -----------              | ------------------------------                                                     |
+| Combined.csv             | Merged .csv file of all applicable datasets.                                       |
+| TODO.md                  | Document with details pertaining to features we were unable to implement.          |
 
 ## Project Overview
 
