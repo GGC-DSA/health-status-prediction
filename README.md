@@ -16,9 +16,7 @@ Below is a table that will navigate you through the folders we have provided and
 | -----------              | ------------------------------                               |
 | CLEANED Datasets         | Contains all 4 pre-processed datasets.                       |
 | Iteration Presentations  | Contains 3 iteration presentations that detail the important decisions made throughout the semester, project progress, and overall creative process. |
-| Notebooks                | Contains all 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                        |
-| Project Deliverables     | Contains the final products of our project including the Poster, Notebook, Report, and Website Code.                                                  |
-| Project Preparation      | Contains our project Charter and Timeline.                   |
+| Notebooks                | Contains all 4 individual Jupyter/Google Collab Notebooks with statistical analysis based on personal dataset.                                        | Project Preparation      | Contains our project Charter and Timeline.                   |
 | Raw Datasets             | Contains all 4 raw datasets taken directly from Kaggle.      |
 | Visual Code              | Contains the files of code for our D3.js and Tableau visuals.|
 
